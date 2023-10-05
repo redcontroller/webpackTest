@@ -1,0 +1,2 @@
+# webpackTest
+Webpack BannerPlugin Test
